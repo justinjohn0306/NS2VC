@@ -1,0 +1,6 @@
+tqdm
+audiolm-pytorch
+librosa
+tensorboardx
+tgt
+pyworld
