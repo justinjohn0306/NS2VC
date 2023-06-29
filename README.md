@@ -33,10 +33,8 @@ The preprocessed data will be saved under the processed_dataset folder.
 
 ## Requirements
 
-You can install the most of the requirements by running the following command.
-
 ```python
-pip install audiolm
+pip install -r requirements.txt
 ```
 
 ### Training
